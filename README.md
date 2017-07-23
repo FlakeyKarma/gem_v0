@@ -20,7 +20,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-GemV0::Renderer.copyright 'Flakey Karma', 'All rights reserved'
+GemV0::Re.copyright 'Flakey Karma', 'All rights reserved'
 ```
 
 ## Development
