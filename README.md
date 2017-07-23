@@ -1,6 +1,5 @@
-#fd GemV0
 
-
+ > Various view specific method for apps I use.
 
 ## Installation
 
@@ -20,7 +19,9 @@ Or install it yourself as:
 
 ## Usage
 
-
+```ruby
+GemV0::Renderer.copyright 'Flakey Karma', 'All rights reserved'
+```
 
 ## Development
 
